@@ -25,6 +25,10 @@ while ArquivoExiste:
         saida=open(nome+'.OUT','w+')
         saida.write('         **** ROTINA COMPUTACIONAL – EXERCÍCIO  RESOLVIDO COM O PROGRAMA ****\n\n')
 
+        saida.write("ÚLTIMO DIGITO MATRÍCULA:   ")
+        saida.write(str(N))
+        saida.write("\n\n")
+
         ArquivoExiste = False
 
         # soma os valores em posições ímpares
@@ -47,13 +51,13 @@ while ArquivoExiste:
         s1, s2, s3 = np.sort(eigenvals)[::-1]
         saida.write("Tensões principais:")
         saida.write("\n")
-        saida.write("s1 =")
+        saida.write("s1 = ")
         saida.write(str(np.round(s1, 6)))
         saida.write("\n")
-        saida.write("s2 =")
+        saida.write("s2 = ")
         saida.write(str(np.round(s2, 6)))
         saida.write("\n")
-        saida.write("s3 =")
+        saida.write("s3 = ")
         saida.write(str(np.round(s3, 6)))
         saida.write("\n")
 
@@ -82,5 +86,8 @@ while ArquivoExiste:
         print('NÃO ENCONTRADO')
         print('POR FAVOR, INSIRA O NOME DO ARQUIVO OU DIGITE SAIR PARA ENCERRAR :')
         nome = input()
+
+
+
 
 
