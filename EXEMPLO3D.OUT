@@ -1,0 +1,20 @@
+         **** ROTINA COMPUTACIONAL – EXERCÍCIO  RESOLVIDO COM O PROGRAMA ****
+
+Tensor de deformação:  
+[[0.001167 0.000167 0.000333]
+ [0.000167 0.000933 0.000267]
+ [0.000333 0.000267 0.0011  ]]
+
+Tensões principais:
+s1 =30.186098
+
+s2 =8.253797
+
+s3 =3.560105
+
+Máxima tensão de cisalhamento:  10.96615
+
+Coeficiente de segurança pelo critério de Tresca:  0.547138
+
+Coeficiente de segurança pelo critério de von Mises:  0.080816
+
