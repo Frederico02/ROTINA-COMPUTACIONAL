@@ -1,5 +1,7 @@
          **** ROTINA COMPUTACIONAL – EXERCÍCIO  RESOLVIDO COM O PROGRAMA ****
 
+         **** Caio Silva Ribeiro de Almeida  - Matrícula 201911070 ****
+
 ÚLTIMO DIGITO MATRÍCULA:   0
 
 Tensor de deformação:  
@@ -10,6 +12,8 @@ Tensor de deformação:
 I1: 21.0
 I2: 36.0
 I3: -387.00000000000006
+
+Tensão Octa: 7.0
 
 J2: 111.0
 J3: 47
@@ -28,6 +32,8 @@ Máxima tensão de cisalhamento:  5.582707815929968
 Tresca:  21.05849924402382
 Coeficiente de segurança pelo critério de Tresca:  0.5698411772341979
 Escoamento
+
 Von Mises:  18.24828759089466
 Coeficiente de segurança pelo critério de von Mises:  0.6575959492214292
 Escoamento
+
