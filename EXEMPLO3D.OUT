@@ -1,8 +1,8 @@
-         **** ROTINA COMPUTACIONAL � EXERC�CIO  RESOLVIDO COM O PROGRAMA ****
+         **** ROTINA COMPUTACIONAL – EXERCÍCIO  RESOLVIDO COM O PROGRAMA ****
 
-�LTIMO DIGITO MATR�CULA:   0
+ÚLTIMO DIGITO MATRÍCULA:   0
 
-Tensor de deforma��o:  
+Tensor de deformação:  
 [[0.000633 0.000167 0.0001  ]
  [0.000167 0.0004   0.000267]
  [0.0001   0.000267 0.000567]]
@@ -11,8 +11,6 @@ I1: 21.0
 I2: 36.0
 I3: -387.00000000000006
 
-Tens�o Octa: 7.0
-
 J2: 111.0
 J3: 47
 
@@ -20,18 +18,16 @@ Cos: 0.10441557301826747
 Arcoseno: 84.00650372435047
 Teta: 29
 
-Tens�es principais:
+Tensões principais:
 s1 = 17.741304958627918
 s2 = 6.575889326767982
 s3 = -3.3171942853959018
 
-M�xima tens�o de cisalhamento:  5.582707815929968
+Máxima tensão de cisalhamento:  5.582707815929968
 
 Tresca:  21.05849924402382
-Coeficiente de seguran�a pelo crit�rio de Tresca:  0.5698411772341979
+Coeficiente de segurança pelo critério de Tresca:  0.5698411772341979
 Escoamento
-
 Von Mises:  18.24828759089466
-Coeficiente de seguran�a pelo crit�rio de von Mises:  0.6575959492214292
+Coeficiente de segurança pelo critério de von Mises:  0.6575959492214292
 Escoamento
-
