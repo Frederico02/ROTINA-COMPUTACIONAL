@@ -24,6 +24,7 @@ while ArquivoExiste:
         # Criando arquivo de saida
         saida=open(nome+'.OUT','w+')
         saida.write('         **** ROTINA COMPUTACIONAL – EXERCÍCIO  RESOLVIDO COM O PROGRAMA ****\n\n')
+        saida.write('         **** Caio Silva Ribeiro de Almeida  - Matrícula 201911070 ****\n\n')
 
         saida.write("ÚLTIMO DIGITO MATRÍCULA:   ")
         saida.write(str(N))
@@ -160,6 +161,5 @@ while ArquivoExiste:
         print('NÃO ENCONTRADO')
         print('POR FAVOR, INSIRA O NOME DO ARQUIVO OU DIGITE SAIR PARA ENCERRAR :')
         nome = input()
-
 
 
